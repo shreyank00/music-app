@@ -1,3 +1,3 @@
 # music-app
-build by me and one more member 
+build by me 
 shreyank chatterjee (00315004921) 
